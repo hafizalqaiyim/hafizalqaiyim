@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @hafizalqaiyim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-hafizalqaiyim/hafizalqaiyim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>halo nama saya hafiz alqaiyim dari X PPLG 2</h1>
+<p>saya lahir pada 8 oktober 2008</p>
+<p>saya bersekolah di SMK LETRIS INDONESIA 2</p>
+<p>saya tinggal di jalan beringin gang bambu</p>
+<h2>hobby</h2>
+<ul>
+  <li>main game</li>
+  <li>silat</li>
+</ul>
